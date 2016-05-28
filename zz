@@ -1,0 +1,35 @@
+[33mcommit 725a306ecf238443fe0da5e73b81676ee9443fde[m
+Author: Rodrigo Silva <abanaunderline@hotmail.com>
+Date:   Thu May 19 15:24:26 2016 -0300
+
+    corrected a typo
+
+[33mcommit 6f0bb629a40803c6aea138a6b2152b6e8340c9cc[m
+Author: Rodrigo Silva <abanaunderline@hotmail.com>
+Date:   Thu May 19 15:00:23 2016 -0300
+
+    basic markup and style for po'es tribute page. Adding more styles for improving appearance, especcialy in larger screens
+
+[33mcommit 75cd1eb07e6f3304b7ad306f3289f27e4648e818[m
+Author: Rodrigo Silva <abanaunderline@hotmail.com>
+Date:   Mon May 2 13:13:39 2016 -0300
+
+    creating a clean start with bootstrap
+
+[33mcommit ca7871524ff9273e7684309247467d7b436626d7[m
+Author: Rodrigo Silva <abanaunderline@hotmail.com>
+Date:   Fri Apr 29 18:24:41 2016 -0300
+
+    more cleaning
+
+[33mcommit 6848b734b359eb1463010a607978ac17a3d65ce7[m
+Author: Rodrigo Silva <abanaunderline@hotmail.com>
+Date:   Fri Apr 29 18:15:18 2016 -0300
+
+    cleaned it to restart from start
+
+[33mcommit 8059a842d1675f4f592187ecb2658ed35005c301[m
+Author: Rodrigo Silva <abanaunderline@hotmail.com>
+Date:   Fri Apr 29 17:42:51 2016 -0300
+
+    first commit

@@ -1,1 +1,42 @@
-.footer { margin-left: auto; margin-right: auto;}
+@import url(https://fonts.googleapis.com/css?family=Questrial);
+html{
+    position: relative;
+    min-height: 100%;
+}
+body{
+    color: #ddd7ca;
+    background-color:rgb(79, 52, 103);
+    margin-bottom: 8em;
+}
+.secondary-text{
+    color: #b48ab2;
+}
+#footer{
+    position: absolute;
+    bottom: 0;
+    height: 6em;
+    width: 100%;
+    padding-top: 2em;
+    background-color:rgb(19, 18, 34);
+}
+#main{
+    padding-top: 4em;
+    font-family: "Century Gothic","Apple Gothic","AppleGothic","URW Gothic L","Avant Garde","Questrial",sans-serif;
+}
+#main a{
+    color: rgb(92, 240, 217);
+}
+#main a:visited{
+    color: hsl(302, 83%, 65%)
+}
+#header{
+    padding-top: 15px;
+}
+@media (min-width: 1200px) and (min-height: 800px){
+    .two-columns{
+        column-count: 2;
+        -moz-column-count: 2;
+        -webkit-column-count: 2;
+    }
+    
+}
